@@ -1,0 +1,22 @@
+{
+  "sarah_voice": {
+    "category": "hostile",
+    "subtitle": "subtitle.i_heard_it_too.sarah",
+    "sounds": [{"name": "i_heard_it_too:sarah", "stream": false}]
+  },
+  "chase_theme": {
+    "category": "hostile",
+    "subtitle": "subtitle.i_heard_it_too.chase_theme",
+    "sounds": [{"name": "i_heard_it_too:chasetheme", "stream": true}]
+  },
+  "chase_sarah": {
+    "category": "hostile",
+    "subtitle": "subtitle.i_heard_it_too.chase_sarah",
+    "sounds": [{"name": "i_heard_it_too:chasesarah", "stream": false}]
+  },
+  "mad_sarah": {
+    "category": "hostile",
+    "subtitle": "subtitle.i_heard_it_too.mad_sarah",
+    "sounds": [{"name": "i_heard_it_too:madsarah", "stream": false}]
+  }
+}
